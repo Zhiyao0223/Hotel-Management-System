@@ -1,6 +1,8 @@
 # Hotel-Management-System
 
-This is a hotel management system that helps hotel owners and managers keep track of their guests, reservations, and room availability.
+This is a hotel management system that helps hotel managers and staff to keep track of their guests, reservations, and room availability.
+
+Text file is used as a medium to store data.
 
 Features:
 - Add and edit guest information
@@ -8,3 +10,6 @@ Features:
 - Check room availability
 - Manage room types and rates
 - Generate reports
+
+GUI Framework: Java Swingx
+
