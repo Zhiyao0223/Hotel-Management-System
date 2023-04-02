@@ -9,7 +9,6 @@ Features:
 - Create, modify, and delete reservations
 - Check room availability
 - Manage room types and rates
-- Generate reports
 
 GUI Framework: Java Swingx
 
