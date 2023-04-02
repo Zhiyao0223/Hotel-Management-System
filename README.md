@@ -13,3 +13,4 @@ Features:
 
 GUI Framework: Java Swingx
 
+* Found bugs and working on fixing
