@@ -179,7 +179,7 @@ public class LoginPage extends javax.swing.JFrame {
         String inputUser = usernameField.getText();
         String inputPass = paswordField.getText();
         try {
-              File staffFile = new File("staff.txt");
+              File staffFile = new File("src/main/resources/text_file/staff.txt");
               Scanner s = new Scanner(staffFile);
               while (s.hasNextLine()) {
                 staffData = s.nextLine();
